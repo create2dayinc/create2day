@@ -1,0 +1,4 @@
+Sitemap: https://create2day.org/sitemapindex.xml
+
+User-Agent: *
+Host: create2day.org
