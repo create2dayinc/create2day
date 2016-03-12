@@ -1,0 +1,37 @@
+/*** Create 2 Day CSS ***/
+/* Written by Griffin M */
+
+/* Mobile device fixes */
+/* Center navbar elements when device is large enough, otherwise, don't center them */
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+body {
+	background: #C3E4ED;
+	background: linear-gradient(left, #49a5d2 0%, #C3E4ED 15%, #C3E4ED 85%, #49a5d2 100%);
+	background: -webkit-linear-gradient(left, #49a5d2 0%, #C3E4ED 15%, #C3E4ED 85%, #49a5d2 100%);
+	background: -moz-linear-gradient(left, #49a5d2 0%, #C3E4ED 15%, #C3E4ED 85%, #49a5d2 100%);
+	background: -o-linear-gradient(left, #49a5d2 0%, #C3E4ED 15%, #C3E4ED 85%, #49a5d2 100%);
+	width: 100%;
+	padding-top: 46px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/* Main page content styling */)
+.body-content {
+	background: linear-gradient(left,#E6E6E6 0%, #fff 7%, #fff 93%, #E6E6E6 100%);
+	background: -webkit-linear-gradient(left,#E6E6E6 0%, #fff 7%, #fff 93%, #E6E6E6 100%);
+	background: -moz-linear-gradient(left,#E6E6E6 0%, #fff 7%, #fff 93%, #E6E6E6 100%);
+	background: -o-linear-gradient(left,#E6E6E6 0%, #fff 7%, #fff 93%, #E6E6E6 100%);
+	font-family: 'Molengo', sans-serif;
+	color: black;
+}
