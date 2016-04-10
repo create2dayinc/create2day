@@ -1,2 +1,7 @@
 *.rbc
 *.fyc
+.doit.db.*
+output/
+__pycache__/
+cache/
+.nojekyll
