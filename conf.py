@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Create 2 Day Inc."  # (translatable)
 BLOG_TITLE = "Create 2 Day"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://create2day.org/"
+SITE_URL = "https://create2dayinc.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://create2day.org/"
