@@ -22,7 +22,8 @@ Birthdays at Create are **fun!**  Our birthdays are  easy to plan, and we will w
 
 Fill free to bring your own cake, ice cream and decorations or use any of ours that are available.
 
-Parties range in price from $120 with 12 guests *(includes birthday boy/girl)*. Our package includes a short tour of Create 2 Day, a creative reuse project of your choice, up to 1 1/2 hour in the workshop and 1/2 hour in the party room, reuse invitations, goodies bag for the guest, all materials and the expertise of our artsy and knowledgeable party host(s) and a special gift for the birthday boy/girl. 
+Parties range in price from $120 with 12 guests *(includes birthday boy/girl)*.
+Our package includes a short tour of Create 2 Day, a creative reuse project of your choice, up to 1 1/2 hour in the workshop and 1/2 hour in the party room, reuse invitations, goodies bag for the guest, all materials and the expertise of our artsy and knowledgeable party host(s) and a special gift for the birthday boy/girl. 
 
 These parties can be themed. Some example party themes are below:
  
@@ -51,12 +52,17 @@ These parties can be themed. Some example party themes are below:
 
 
 ##Scheduling
-First, check our calendar for availability. Call us at <i class="fa fa-phone "></i>**PHONE NUMBER HERE**. Please schedule with us at least two weeks in advance. 
-A $50 deposit needs to be paid. 
+First, check our calendar for availability. 
+
+Call us at <i class="fa fa-phone "></i>**PHONE NUMBER HERE**. Please schedule with us at least two weeks in advance. A $50 deposit needs to be paid. 
+
 Arrive up to 30 minutes early to decorate any way you want or just take it easy and enjoy our always festive Castle.
+
 Have a photo with props. You furnish the camera and take a group picture.
 Parties should be scheduled at least 2 weeks in advance.
-All parties require payment in full upon confirmation of party date. Payments refundable with 14 days notice. The payment is non-refundable for cancellations less than 14 days before the scheduled party date.
+
+All parties require payment in full upon confirmation of party date. Payments refundable with 14 days notice. 
+The payment is non-refundable for cancellations less than 14 days before the scheduled party date.
 
 And as always, enjoy and have fun at **Create!**      
 
@@ -73,7 +79,9 @@ blowing out candles on your beautiful birthday cake?
 
 Nothing symbolizes a birthday more than a cake adorned with candles and a gift.
 
-Yet while many of us take a birthday cake and presents for granted, there are children who miss out receiving this simple, yet special, pleasure on their big day. In economically challenged homes, birthday cakes and presents are sometimes an unaffordable luxury when compared to competing priorities for medicine, clothes, and rent.  As a result, many children living in poverty or in shelters do not have birthday parties to celebrate.
+Yet while many of us take a birthday cake and presents for granted, there are children who miss out receiving this simple, yet special, pleasure on their big day. 
+In economically challenged homes, birthday cakes and presents are sometimes an unaffordable luxury when compared to competing priorities for medicine, clothes, and rent. 
+As a result, many children living in poverty or in shelters do not have birthday parties to celebrate.
 
 **Create** wants to ensure that the needy children have those joyful experiences as well by providing cakes and distributing new toys and gently-used toys, games, dolls, and books; bringing smiles to young faces. 
 
@@ -84,11 +92,9 @@ Doesn't every child deserve to have that moment of being the star?  We think so;
 This program is for children that are in Shelters or Foster Homes. Some of these children have not been able to enjoy a Birthday or have a Birthday Party.
 
 With your help and donations, we provide the children a cake and presents wrapped festively for the occasion. These are put in a large box and again wrapped appropriately at which time the box is delivered according to security guidelines. 
+
 We prefer new toys and items for this program. Our proceeds and donations cover the cost of gifts, and cakes are made by volunteers who support the program. See our donations page for more information.
-
-
-
-
+<br><br><br><br>
 
 <a name="gifts-for-seniors">Gifts for Seniors</a>
 ---
