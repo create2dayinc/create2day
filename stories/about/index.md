@@ -25,12 +25,14 @@ We:
 * Keep *"garbage"* out of landfills by finding new uses for old materials.
 * Have **Funnel cake!**
 
-<br><br><br>
+<br><br><br><br>
+
 <a name="mission">Mission Statement</a>
 ---
 Our mission is to encourage creative reuse and be environmentally-friendly by offering, creative ideas, affordable craft materieals and classes to the community. 
 
-<br><br><br>
+<br><br><br><br>
+
 <a name="three-rs">**R**educe, **R**e-Create,  And **R**e-Use</a>
 ---
 We are a non-profit arts-and-crafts re-store. We are filled with all sorts of reusable materials for your projects.  Educators can stretch their budgets. Kids can learn about creative reuse while having fun. The local creative community will have access to quality material. We invite you to come by and check out our ever-changing inventory.
