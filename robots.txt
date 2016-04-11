@@ -1,4 +1,4 @@
-Sitemap: https://create2day.org/sitemapindex.xml
+Sitemap: https://create2dayinc.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: create2day.org
+Host: create2dayinc.github.io
