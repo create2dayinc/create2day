@@ -6,19 +6,19 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://create2day.org/galleries/Projects/rss.xml</loc>
-  <lastmod>2016-04-10T22:11:00Z</lastmod>
+  <loc>https://create2dayinc.github.io/galleries/Projects/rss.xml</loc>
+  <lastmod>2016-04-11T01:23:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://create2day.org/galleries/rss.xml</loc>
-  <lastmod>2016-04-10T22:11:00Z</lastmod>
+  <loc>https://create2dayinc.github.io/galleries/rss.xml</loc>
+  <lastmod>2016-04-11T01:23:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://create2day.org/rss.xml</loc>
-  <lastmod>2016-04-10T22:11:00Z</lastmod>
+  <loc>https://create2dayinc.github.io/rss.xml</loc>
+  <lastmod>2016-04-11T01:23:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://create2day.org/sitemap.xml</loc>
-  <lastmod>2016-04-10T22:11:00Z</lastmod>
+  <loc>https://create2dayinc.github.io/sitemap.xml</loc>
+  <lastmod>2016-04-11T01:23:00Z</lastmod>
  </sitemap>
 </sitemapindex>
