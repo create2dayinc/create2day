@@ -20,15 +20,17 @@
         <li><a title="Twitter" href="https://twitter.com/create2dayinc" class="btn btn-lg" id="twitter">
                 <i class="fa fa-twitter fa-4x"></i>
             </a></li>
+        <!-- Unused button
         <li><a href="" class="btn btn-lg">
                 
             </a></li>
+        -->
     </ul>
 </div>
 
 <address>
-<p><i class="fa fa-envelope-o fa-2x"></i>    Email Address Here</p>
-<p><i class="fa fa-phone fa-2x"></i>    Telephone # Here</p>
+<p><i class="fa fa-envelope-o fa-2x"></i>    <a href="mailto:create2dayinc@gmail.com" target="_top">create2dayinc@gmail.com</a></p>
+<p><i class="fa fa-phone fa-2x"></i>    (913) 422-5892</p>
 <p><i class="fa fa-location-arrow fa-2x"></i> Address: <br>
 &emsp;115 Oak Street <br>
 &emsp;Bonner Springs, KS <br>

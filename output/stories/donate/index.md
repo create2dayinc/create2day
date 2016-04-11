@@ -95,6 +95,7 @@ The following is a partial list from A-Z of re-useable items we accept:
 * Zippers
 * **Or whatever you feel like could be used again in a creative way!**
 
+<br><br>
 Cash Donations
 ---
 We sincerely appreciate it when individuals, groups, and companies come alongside of our efforts and help to provide necessary financial support for us to promote **Creative Reuse**. We are a 501(c)3 Public Charity and your contributions are tax deductible. Your contributions help us to operate the day-to-day business operations and covering the costs for providing the Birthday in a Box for children in shelters and need as well as our seniors in nursing home. 
